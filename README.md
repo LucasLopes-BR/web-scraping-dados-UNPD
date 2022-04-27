@@ -1,4 +1,4 @@
-<h2 align="center"> Web Scraping de tabela com dados de IDH (2014) para auxiliar em projeto comparativo </h2> 
+<h2 align="center"> Web Scraping simples de tabela com dados de IDH (2014) para auxiliar em projeto comparativo </h2> 
 
 Aqui eu utilizei dados do site da UNPD (United Nations Development Programme), manipulei a tabela html com o Python e exportei como CSV.
 
