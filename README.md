@@ -12,7 +12,8 @@ Aqui eu utilizei dados do site da UNPD (United Nations Development Programme), m
 ![Lucas Lopes - Numpy](https://img.shields.io/badge/-Numpy-blue?style=for-the-badge&logo=Numpy)
 ![Lucas Lopes - BS$](https://img.shields.io/badge/-BeautifulSoap-black?style=for-the-badge&logo=BeautifulSoap)
 ![Lucas Lopes - excel](https://img.shields.io/badge/-Excel-green?style=for-the-badge&logo=Excel)
-
+![Lucas Lopes - excel](https://img.shields.io/badge/-CSV-black?style=for-the-badge&logo=CSV)
+  
 <b> QUER SABER MAIS OU TROCAR AQUELA IDÉIA SOBRE? PODE ME CHAMAR </b>
 
 <a href="https://www.linkedin.com/in/lucas-lopes-br/" alt="linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white"></a> 
